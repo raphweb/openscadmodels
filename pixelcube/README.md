@@ -1,5 +1,6 @@
 # Pixel Cube
 I created this parameterized version of the pixelcube inspired by this original: https://www.printables.com/model/861264-fidget-pixel-cube
+For the rounded corners it uses the [Round Anything library](https://github.com/Irev-Dev/Round-Anything).
 
 Here is a screenshot of a 10x10 cube:
 ![image](pixelcube.png)
