@@ -7,8 +7,8 @@ Here is a screenshot of a 10x10 cube:
 Among the things that you can parameterize is:
 * size of each column (can also have different width and depth)
 * the height of the whole thing
-* the numbers of columns (even 1x1 is possible ;-))
-* the clearance between the knobs and columns (default is 0.4 mm)
+* the numbers of columns, width and depth (even 1x1 is possible ;-))
+* the clearance between the knobs and columns (default is 0.4 mm), so depending on your printers precision, you could go for a smaller clearance
 
 Here are two examples of the clearance, they are lateral cuts through the model:
 
